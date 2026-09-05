@@ -9,7 +9,8 @@ How can we automatically extract, disambiguate, and spatially ground critical ge
 - **Location:** Cotonou
 
 ## Dataset and sources
-15,000 manually annotated text snippet (Tweets, international organizations reports, news, blogs,etc...)
+15,000 manually annotated text snippet (Tweets, international organizations reports, news, blogs,etc...
+Available on CrisisNLP ---> https://crisisnlp.qcri.org/
 
 ## Main variables
 **Entity Types**
